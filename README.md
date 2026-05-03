@@ -11,6 +11,8 @@ This project covers dynamic memory allocation for structs. It generates and mana
 
 ### MyCJourneyPt.2: Dynamic Matrix Operations
 This project focuses on multidimensional data. It allows creating matrices, filling them with data, and extracting square submatrices based on coordinates.
+### MyCJourneyPt.3: Magic Square Generator
+This project implements an algorithm to generate odd-order magic squares. It emphasizes the use of mathematical logic to handle matrix boundaries and complex memory cleanup for dynamically allocated 2D arrays.
 
 ---
 
